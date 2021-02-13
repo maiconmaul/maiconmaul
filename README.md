@@ -1,6 +1,6 @@
 <img width="auto" src="https://media-exp1.licdn.com/dms/image/C4D16AQG0PWr092vvaw/profile-displaybackgroundimage-shrink_350_1400/0?e=1602115200&v=beta&t=1Lb7FV9xFJ3ZlAH3FtbDzbUNbd5wzPzEdeOr5TWp57w">
 
-# Maicon Rodrigues dos Santos, 18 anos, brasileiro.
+# Maicon Rodrigues dos Santos, 19 anos, brasileiro.
 Programador a 3 anos.
 
 ### Contatos
