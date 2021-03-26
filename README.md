@@ -5,7 +5,7 @@ Programador a 3 anos.
 
 ### Contatos
   - Email: maicon.santos@gisulcompany.com <br>
-  - LinkedIn: https://www.linkedin.com/in/maicon-santos-8904a41b4/
+  - LinkedIn: https://www.linkedin.com/in/maiconsantosdev/
 
 
 
