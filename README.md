@@ -1,16 +1,14 @@
-<img width="auto" src="https://media-exp1.licdn.com/dms/image/C4D16AQG0PWr092vvaw/profile-displaybackgroundimage-shrink_350_1400/0?e=1602115200&v=beta&t=1Lb7FV9xFJ3ZlAH3FtbDzbUNbd5wzPzEdeOr5TWp57w">
-
 # Maicon Rodrigues dos Santos, 19 anos, brasileiro.
-Programador a 3 anos.
+Programador a 4 anos.
 
 ### Contatos
-  - Email: maicon.santos@gisulcompany.com <br>
+  - Email: maicon.santos71@outlook.com <br>
   - LinkedIn: https://www.linkedin.com/in/maiconsantosdev/
 
 
 
 ## Possuo conhecimento nas tecnologias:
-  - Swift (iOS)
+  - Swift (iOS) -> PLENO
   - C#
   - SQL (MySQL, SQLServer, SQLite)
   - PHP
