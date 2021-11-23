@@ -11,12 +11,11 @@ Programador a 4 anos.
   - Swift (iOS) -> PLENO
   - C#
   - SQL (MySQL, SQLServer, SQLite)
-  - PHP
-
-## Estudando
   - JavaScript
   - ReactJS
   - React Native
+
+## Estudando
   - NodeJS
 
 <!--
