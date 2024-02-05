@@ -1,22 +1,17 @@
-# Maicon Rodrigues dos Santos, 20 anos, brasileiro.
-Programador a 4 anos.
+# Maicon Rodrigues dos Santos, 22 anos, brasileiro.
 
 ### Contatos
   - Email: maicon.santos71@outlook.com <br>
   - LinkedIn: https://www.linkedin.com/in/maiconsantosdev/
 
-
-
 ## Possuo conhecimento nas tecnologias:
-  - Swift (iOS) -> PLENO
+  - Swift (iOS)
+  - Kotlin (Android)
+  - React Native
   - C#
   - SQL (MySQL, SQLServer, SQLite)
   - JavaScript
   - ReactJS
-  - React Native
-
-## Estudando
-  - NodeJS
 
 <!--
 **maiconmaul/maiconmaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
